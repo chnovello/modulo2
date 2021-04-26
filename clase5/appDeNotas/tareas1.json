@@ -1,0 +1,14 @@
+[
+ {
+"titulo": "Ir al super",
+"Estado": "COMPLETA"
+},
+{
+"titulo": "Pasear al perro",
+"Estado": "EN PROGRESO"
+},
+{
+"titulo": "Lavar la ropa",
+"Estado": "PENDIENTE"
+} 
+]
